@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Irsath 👋
 
-<!--
-**irsath-ali/irsath-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Data & AI Scientist at [Sysco Labs](https://syscolabs.com) — part of Sysco Corporation, the world's largest food distribution company — where I design and ship production ML systems for demand forecasting, supply chain optimisation, and AI governance at enterprise scale.
 
-Here are some ideas to get you started:
+I'm the founder of [NexAI](https://nexai.lk) — an AI-native education and research platform — and a Visiting Lecturer at NIBM and IIT Sri Lanka. I designed and led the first modern BI & Analytics course at NIBM, and I'm currently building curriculum around AI Engineering, Agentic AI, and applied LLM systems for the next generation of practitioners.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I grew up in Akkaraipattu, Eastern Province, Sri Lanka. That background shapes everything I do — I show up in classrooms, on Zoom, and at university workshops across Sri Lanka and the Gulf to make sure the next generation of data professionals has a better path than I did.
+
+---
+
+- 🤖 Designing production ML pipelines, AI Engineering systems, and Agentic AI workflows at enterprise scale
+- 🎓 Visiting Lecturer — NIBM & IIT Sri Lanka | 500+ students trained across 8+ universities and institutions
+- 🚀 Founder — [NexAI](https://nexai.lk) | AI-native education platform serving professionals across Sri Lanka and the Gulf
+- 📺 Free AI & Data Science content → [YouTube @IrsathAliNexAI](https://www.youtube.com/@IrsathAliNexAI)
+- 🌍 Personal site → [irsath.nexai.lk](https://irsath.nexai.lk)
+- 💼 LinkedIn → [irsath-ali](https://www.linkedin.com/in/irsath-ali/)
